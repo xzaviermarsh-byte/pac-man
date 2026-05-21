@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///w8AAADwVVVV9QAAAF9V9VVVDwAAX1X/9V8PAABfVV9VXw8AAF9VVVVfDwAAX1VfVV8PAABfVf/1Xw8AAF9V9VVVDwAA8FVVVfUAAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pac Man"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
